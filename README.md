@@ -4,7 +4,7 @@
 **How to use jacc:**<br/>
 Put the bot token in `token = "here"`<br>
 Put your UserID in `userid = "here"`<br> 
-You use the bot with `prefix`dm "message", default prefix is j! so j!dm "message"<br>
+You use the bot with `prefix`dm "message", default prefix is `j!` so `j!dm "message"` to use the bot.<br>
 
 **I am not responsible with anything you do with this bot, it's all your fault.**  
 
