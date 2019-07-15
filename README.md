@@ -2,6 +2,7 @@
  Jacc is a lightweight bot that can be used to send a DM to all of your server members. Maybe to alert them of something or advertise something your call
 
 **How to use jacc:**<br/>
+Do pip install discord.py in your terminal to install the dependency. <br>
 Put the bot token in `token = "here"`<br>
 Put your UserID in `userid = "here"`<br> 
 You use the bot with `prefix`dm "message", default prefix is `j!` so `j!dm "message"` to use the bot.<br>
